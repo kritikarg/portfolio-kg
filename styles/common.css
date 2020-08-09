@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+:root {
+  --color-blue: #159ab8;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+.pink {
+  color: #c5587f;
+}
+
+.semi-bold {
+  font-weight: 600;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+}
